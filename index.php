@@ -1,1 +1,1 @@
-<?php header("Location: https://www.experiencemidcanterburynz.com/"); ?>
+<?php header("Location: https://www.midcanterburynz.com/"); ?>
